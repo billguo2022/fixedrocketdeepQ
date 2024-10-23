@@ -20,16 +20,22 @@ rocket landing using deep q learning
 <img width="535" alt="Screenshot 2024-10-22 at 8 47 27 PM" src="https://github.com/user-attachments/assets/0f9fe24a-cee7-46dc-bc60-9a3419be48a6">
 
 
+
 <img width="506" alt="Screenshot 2024-10-22 at 8 47 47 PM" src="https://github.com/user-attachments/assets/2d70bdc2-cb81-4693-a8d7-457caccf6e30">
+
 
 
 <img width="512" alt="Screenshot 2024-10-22 at 8 48 01 PM" src="https://github.com/user-attachments/assets/fd037d73-b0b6-4e62-8629-dc0cc58d819a">
 
 
+
 <img width="487" alt="Screenshot 2024-10-22 at 8 48 15 PM" src="https://github.com/user-attachments/assets/c6ab9aec-4fec-4b5c-b6e2-164ffa2af02e">
 
 
+
 <img width="492" alt="Screenshot 2024-10-22 at 8 48 25 PM" src="https://github.com/user-attachments/assets/f771c095-f3aa-44d0-a779-28a20cc37af1">
+
+
 
 
 <img width="517" alt="Screenshot 2024-10-22 at 8 49 11 PM" src="https://github.com/user-attachments/assets/aec62d35-aa92-4d5a-9c3b-68e1f9aaa2c6">
