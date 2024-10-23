@@ -29,7 +29,7 @@ rocket landing using deep q learning
 
 
 
-<img width="487" alt="Screenshot 2024-10-22 at 8 48 15 PM" src="https://github.com/user-attachments/assets/c6ab9aec-4fec-4b5c-b6e2-164ffa2af02e">
+<img width="554" alt="Screenshot 2024-10-22 at 8 50 25 PM" src="https://github.com/user-attachments/assets/f7a744ae-84bb-4bc8-b12b-627bad8f3dfc">
 
 
 
